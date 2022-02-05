@@ -1,2 +1,3 @@
-# Meu-primeiro-repositorio
-Projeto da dio curso de git/github
+# Curso de git/github dio
+Projeto meu primeiro repositório
+[dowload git](https://git-scm.com/downloads)
